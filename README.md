@@ -7,7 +7,9 @@ Program for calculating the value of a quadratic equation and displaying its gra
 In the project was used QCustomPlot: https://www.qcustomplot.com/
 
 Getting Started
-Run the installer and complete the installation or open the project in QT Creator using the button "open the project"
+Run the installer and complete the installation or open the project in QT Creator using the button "open the project" (for editing code)
+
+Installing Qt Creator (if you want to edit the code):
 
 1. Download and install QT Creator from https://www.qt.io/download
 2. Unzip the archive "QT_Projeсt.rar" to the folder for the project
@@ -22,7 +24,7 @@ StusQT
 License
 This project is licensed under the GNU Affero General Public License v3.0 - see the LICENSE.txt file for details
 
-
+****************************************************************
 
 Русская версия:
 
@@ -33,9 +35,9 @@ QuadrEDC - программа для вычисления корня квадр�
 
 Установка:
 
-Запустите установщик и следуйте инструкциям на экране или откройте проект в Qt Creator и нажмите кнопку "Открыть проект" (для редакирования кода)
+Запустите установщик и следуйте инструкциям на экране или откройте проект в Qt Creator и нажмите кнопку "Открыть проект" (для редактирования кода)
 
-Устанока QT Creator (если вы хотите редакировать код):
+Устанока QT Creator (если вы хотите редактировать код):
 
 1. Загрузите и установить QT Creator https://www.qt.io/download
 2. Распакуйте архив "QT_Projeсt.rar" в папку, созданную для проекта
