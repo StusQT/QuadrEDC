@@ -16,7 +16,8 @@ Installing Qt Creator (if you want to edit the code):
 3. Run QT and click "open project"
 4. Select project folder
 5. Click on the start button in the lower left corner of the screen
-6. Complete!
+6. Unzip the "additional files.rar" archive into the project output folder. For example: D:\C_Projects\build-example-Desktop_Qt_5_13_1_MinGW_32_bit-Release (There are 2 more folders in it: debug and release - DO NOT copy there)
+7. Complete!
 
 Authors:
 StusQT
@@ -44,7 +45,8 @@ QuadrEDC - программа для вычисления корня квадр�
 3. Запустите QT и нажмите на кнопку "открыть проект"
 4. Выберите папку, в которую был распакован архив
 5. Нажмите на кнопку запуска в левом нижне углу меню
-6. Готово!
+6. Распакуйте архив "additional files.rar" в выходную папку проекта. Например: D:\C_Projects\build-example-Desktop_Qt_5_13_1_MinGW_32_bit-Release (В ней есть ещё 2 папки: debug и release - НЕ копируйте туда)
+7. Готово!
 
 Авторы:
 StusQT
